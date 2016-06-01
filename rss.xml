@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Agatha Gück]]></title>
         <description><![CDATA[Agatha Gück]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/agatha-gueck/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 20:49:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 01 Jun 2016 20:53:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/agatha-gueck/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://agatha.beta3.ch/wp-content/uploads/2015/11/DSC_0112.jpg">]]></description>
+            <link>https://thegrid.ai/agatha-gueck/add0c6ed-7f4d-4e09-af47-0b42d1dc5f06/index.html</link>
+            <guid isPermaLink="false">add0c6ed-7f4d-4e09-af47-0b42d1dc5f06</guid>
+            <pubDate>Wed, 01 Jun 2016 20:53:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Am Meer | Agatha Gück]]></title>
             <description><![CDATA[<article><h1>Am Meer | Agatha Gück</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c38987401e584a49b518f2f76097dc69a201bbc4.jpg"></article>]]></description>
