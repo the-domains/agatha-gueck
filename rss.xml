@@ -4,8 +4,15 @@
         <description><![CDATA[Agatha Gück]]></description>
         <link>https://thegrid.ai/agatha-gueck/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 21:35:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 21:36:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/agatha-gueck/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Am Meer | Agatha Gück]]></title>
+            <description><![CDATA[<article><h1>Am Meer | Agatha Gück</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c38987401e584a49b518f2f76097dc69a201bbc4.jpg"></article>]]></description>
+            <link>http://agatha.beta3.ch/?p=113</link>
+            <guid isPermaLink="false">c9dbf108-934a-45a3-8c3c-a4721640f790</guid>
+            <pubDate>Wed, 01 Jun 2016 21:35:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Title]]></title>
             <description><![CDATA[<article><h1>Title</h1><p>Ein bisschen Text...!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/972e3586fb1b0d95fab274530c5ffc7eecdab35f.jpg"></article>]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/agatha-gueck/add0c6ed-7f4d-4e09-af47-0b42d1dc5f06/index.html</link>
             <guid isPermaLink="false">add0c6ed-7f4d-4e09-af47-0b42d1dc5f06</guid>
             <pubDate>Wed, 01 Jun 2016 20:53:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Am Meer | Agatha Gück]]></title>
-            <description><![CDATA[<article><h1>Am Meer | Agatha Gück</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c38987401e584a49b518f2f76097dc69a201bbc4.jpg"></article>]]></description>
-            <link>http://agatha.beta3.ch/?p=113</link>
-            <guid isPermaLink="false">c9dbf108-934a-45a3-8c3c-a4721640f790</guid>
-            <pubDate>Wed, 01 Jun 2016 20:49:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
